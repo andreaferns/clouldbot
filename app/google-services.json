@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45506363095",
+    "project_id": "andrea-cloudbot",
+    "storage_bucket": "andrea-cloudbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45506363095:android:94d209d932880081b17a92",
+        "android_client_info": {
+          "package_name": "com.example.andrea_cloudbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45506363095-vlet3ikvr0tprbh0ogr2f8kf2cthujqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtwKffKVr9xEHQPJhXSDcbgk7c82a0RHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45506363095-vlet3ikvr0tprbh0ogr2f8kf2cthujqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
